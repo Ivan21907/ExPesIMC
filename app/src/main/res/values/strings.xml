@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">ExPesIMC</string>
+    <string name="calculaIMC">Calculadora IMC</string>
+    <string name="btn_calcular">Calcula</string>
+    <string name="exmetres">(exemple: 1.80)</string>
+    <string name="alsadaenmetres">Alçada en metres:</string>
+    <string name="pesenkg">Pes en kg:</string>
+    <string name="exkg">(exemple: 76)</string>
+    <string name="resultPes">Per un pes de: </string>
+    <string name="resultAlsada">I amb una alçada de: </string>
+    <string name="metres">metres.</string>
+    <string name="resultImc">El seu IMC és de: </string>
+    <string name="grups">Vosté es troba en el grup: </string>
+    <string name="btn_menu">Tornar al menú</string>
+    <string name="pes_1">Pes insuficient</string>
+    <string name="pes_2">Pes normal</string>
+    <string name="pes_3">Sobrepes grau I</string>
+    <string name="pes_4">Sobrepes grau II</string>
+    <string name="pes_5">Obesitat de tipus I</string>
+    <string name="pes_6">Obesitat de tipus II</string>
+    <string name="pes_7">Obesitat de tipus III</string>
+    <string name="pes_8">Obesitat de tipus IV</string>
+</resources>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ExPesIMC</string>
+    <string name="alsadaenmetres">Altura en metros:</string>
+    <string name="pesenkg">Peso en kg:</string>
+    <string name="exmetres">(ejemplo. 1.80)</string>
+    <string name="exkg">(ejemplo: 76)</string>
+    <string name="resultPes">Por un peso de:</string>
+    <string name="resultAlsada">Y una altura de:</string>
+    <string name="resultImc">"Su IMC es de: "</string>
+    <string name="grups">Usted se encuentra en el grupo:</string>
+    <string name="btn_menu">Volver al menú</string>
+    <string name="pes_1">Peso insuficiente</string>
+    <string name="pes_2">Peso normal</string>
+    <string name="pes_3">Sobrepeso grado I</string>
+    <string name="pes_4">Sobrepeso grado II</string>
+    <string name="pes_5">Obesidad del tipo I</string>
+    <string name="pes_6">Obesidad del tipo II</string>
+    <string name="pes_7">Obesidad del tipo III</string>
+    <string name="pes_8">Obesidad del tipo IV</string>
+    <string name="btn_calcular">Calcular</string>
+    <string name="metres">metros.</string>
+    <string name="calculaIMC">Calculadora IMC</string>
+</resources>
